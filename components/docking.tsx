@@ -9,13 +9,13 @@ const Dock = () => {
     <div className={twMerge(
       "fixed bottom-4 left-1/2 -translate-x-1/2 flex gap-4 p-3 rounded-2xl border bg-white/10 backdrop-blur-md shadow-lg"
     )}>
-      <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Mohiudin282" target="_blank" rel="noopener noreferrer">
         <FaGithub className="w-6 h-8 text-black dark:text-white" />
       </a>
-      <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/mohiudin" target="_blank" rel="noopener noreferrer">
         <FaLinkedin className="w-6 h-8 text-blue-600" />
       </a>
-      <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+      <a href="https://x.com/MohiudinRana" target="_blank" rel="noopener noreferrer">
         <FaXTwitter className="w-6 h-8 text-black dark:text-white" />
       </a>
       <a href="mailto:ranamohiudin1234@gmail.com">
