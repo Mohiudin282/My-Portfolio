@@ -14,7 +14,7 @@ const projects = [
     {
         title: "Pattern",
         description: "Your daily habbit tracker.",
-        image: "/projects/Habit.png",
+        image: "/projects/Habits.png",
         github: "https://github.com/Mohiudin282/habbit-tracker.git",
         techstack: ["React", "TypeScript", "Tailwind", "Mongo"],
     },
