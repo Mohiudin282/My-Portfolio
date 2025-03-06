@@ -10,6 +10,14 @@ const projects = [
         techstack: ["React", "TypeScript", "Tailwind", "Vite"],
 
     },
+
+    {
+        title: "Pattern",
+        description: "Your daily habbit tracker.",
+        image: "/projects/Habbit.png",
+        github: "https://github.com/Mohiudin282/habbit-tracker.git",
+        techstack: ["React", "TypeScript", "Tailwind", "Mongo"],
+    },
 ];
 
 export function Projects() {
